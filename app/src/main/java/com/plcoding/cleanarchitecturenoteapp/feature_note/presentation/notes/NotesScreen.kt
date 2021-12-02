@@ -33,7 +33,7 @@ fun NotesScreen(
     Scaffold(
         floatingActionButton = {
             FloatingActionButton(onClick = {
-
+                
 
             },
                 backgroundColor = MaterialTheme.colors.primary
